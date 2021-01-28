@@ -1,5 +1,5 @@
-# teste_moor
+# Moor Library
 
-Aplicativo teste com implementação do Moor, uma biblioteca segura e reativa de SQLite.
+Test application with implementation of Moor, a safe and reactive SQLite library.
 
 
